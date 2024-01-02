@@ -7,8 +7,10 @@
 支持二次开发
 
 喜欢的打赏小弟小白一下
+![531703836636_ pic](https://github.com/deedhei/virtual-chart-list/assets/90041400/3429eccc-d8b3-400d-a80b-dd2f2b78ff83)
 
-![](http://39.101.74.144:9090/zxzx/photos/58eb75be30dec1060fb62100dbc77cde.jpg)
+
+
 
 ## 需要传入的参数
 
