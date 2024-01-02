@@ -1,13 +1,22 @@
 {
-  "name": "virtual-chart-list",
-  "version": "0.1.0",
-  "private": true,
+  "name": "virtual-chart-vue3",
+  "version": "1.0.6",
+  "private": false,
+  "main": "./src/index.ts",
+  "keywords": [
+    "vue3",
+    "virtual",
+    "echarts"
+  ],
+  "author": "zx",
+  "license": "ISC",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "echarts": "^5.4.3",
     "vue": "^3.2.13"
   },
   "devDependencies": {
